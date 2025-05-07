@@ -1,0 +1,21 @@
+{
+  "name": "jasonhorton/roundcube-shortz",
+  "description": "Keyboard shortcuts plugin for Roundcube webmail.",
+  "type": "roundcube-plugin",
+  "license": "WTFPL",
+  "authors": [
+    {
+      "name": "Jason Horton",
+    }
+  ],
+  "require": {
+    "roundcube/plugin-installer": ">=0.1.3"
+  },
+  "version": "1.0.0",
+  "extra": {
+    "roundcube": {
+      "min-version": "1.5",
+      "max-version": "1.7"
+    }
+  }
+}
