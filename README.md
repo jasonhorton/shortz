@@ -2,7 +2,7 @@
 
 **Shortz** is a simple Roundcube plugin that lets you perform common email actions using keyboard shortcuts. For example, you can archive a selected message by pressing a key — no mouse required.
 
-There are a bunch of keyboard shortcut plugins for RoundCube, but they are either for old versions and no longer work, or work but not fully, or are unusually complicated. I was after being able to Archive messages, which was not available in most, so here we are!
+There are a bunch of keyboard shortcut plugins for Roundcube, but they are either for old versions and no longer work, or work but not fully, or are unusually complicated. I was after being able to Archive messages, which was not available in most, so here we are!
 
 ## Features
 
